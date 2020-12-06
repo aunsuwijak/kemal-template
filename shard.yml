@@ -1,0 +1,8 @@
+name: crystal-template
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  sentry-run:
+    github: faustinoaq/sentry-run
